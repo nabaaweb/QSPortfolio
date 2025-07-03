@@ -262,6 +262,9 @@ body {
     background-attachment: fixed;
     object-fit: cover;
   }
+  .main .container {
+  height: calc(100vh - 100px);
+}
 }
 
 .main .content h1 {
