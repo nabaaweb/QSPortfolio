@@ -276,8 +276,7 @@ body {
     background-repeat: no-repeat;
     filter: brightness(50%);
     z-index: -1;
-    background-attachment: fixed;
-    object-fit: cover;
+    background-attachment: local;
   }
 }
 
